@@ -1,0 +1,44 @@
+{
+  "creditCards": [
+    {
+      "CreditCard": {
+        "IssuingNetwork": "Master Card",
+        "CardNumber": "5289419206081047",
+        "Name": "Julia Puckett",
+        "Limit": "629$"
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "Master Card",
+        "CardNumber": "5344139354532038",
+        "Name": "Nathan Macdonald",
+        "Limit": "2210$"
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "Master Card",
+        "CardNumber": "5506916092472575",
+        "Name": "Gabriel Wood",
+        "Limit": "1368$"
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "Master Card",
+        "CardNumber": "5487283948769115",
+        "Name": "Sophia Atkins",
+        "Limit": "4884$"
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "Master Card",
+        "CardNumber": "5479466335947978",
+        "Name": "Christopher Hart",
+        "Limit": "1765$"
+      }
+    }
+  ]
+}

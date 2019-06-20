@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "idx": "B0101",
+      "name": "Linsensenkblechschrauben 2,9mm x 3mm",
+      "category": "Blechschrauben",
+      "price": 8
+    },
+    {
+      "idx": "B0102",
+      "name": "Linsensenkblechschrauben 2,9mm x 4mm",
+      "category": "Blechschrauben",
+      "price": 10
+    },
+    {
+      "idx": "B0103",
+      "name": "Linsensenkblechschrauben 2,9mm x 6,5mm",
+      "category": "Blechschrauben",
+      "price": 12
+    },
+    {
+      "idx": "B0201",
+      "name": "Senkblechschrauben 3,5mm x 8mm",
+      "category": "Blechschrauben",
+      "price": 10
+    },
+    {
+      "idx": "B0202",
+      "name": "Senkblechschrauben 3,5mm x 11mm",
+      "category": "Blechschrauben",
+      "price": 12
+    },
+    {
+      "idx": "B0203",
+      "name": "Senkblechschrauben 3,5mm x 13mm",
+      "category": "Blechschrauben",
+      "price": 14
+    },
+    {
+      "idx": "H0101",
+      "name": "Linsensenk-Holzschrauben 2mm x 6mm",
+      "category": "Holzschrauben",
+      "price": 5
+    },
+    {
+      "idx": "H0102",
+      "name": "Linsensenk-Holzschrauben 2mm x 8mm",
+      "category": "Holzschrauben",
+      "price": 7
+    },
+    {
+      "idx": "H0103",
+      "name": "Linsensenk-Holzschrauben 2mm x 10mm",
+      "category": "Holzschrauben",
+      "price": 9
+    },
+    {
+      "idx": "H0201",
+      "name": "6KT-Holzschrauben  4mm x 6mm",
+      "category": "Holzschrauben",
+      "price": 5
+    },
+    {
+      "idx": "H0202",
+      "name": "6KT-Holzschrauben  4mm x 8mm",
+      "category": "Holzschrauben",
+      "price": 7
+    },
+    {
+      "idx": "H0203",
+      "name": "6KT-Holzschrauben  4mm x 12mm",
+      "category": "Holzschrauben",
+      "price": 11
+    },
+    {
+      "idx": "U0101",
+      "name": "Unterlagscheibe M3",
+      "category": "Unterlagscheiben",
+      "price": 3
+    }
+  ]
+}
